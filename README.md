@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IstutiMaurya?tab=repositories](https://github.com/IstutiMaurya?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS , JAVASCRIPT, Canva, Figma, ML.**
+- 💬 Ask me about **HTML, CSS , JAVASCRIPT, Canva, Figma, Python*: {Data Analysis (NumPy, Pandas, Keras/TensorFlow, Image PIL, Matplotlib), Web Scraping (Beautiful Soup and Selenium)}.**
 
 - 📫 How to reach me **Istutimaurya7@gmail.com**
 
