@@ -11,7 +11,7 @@
 
 - 🔭 I have done an Internship **at OIA Software and Private Solutions Limited in Graphics Designing**
 
-- 🌱 I have learnt **React.js, Adobe Photoshop, Adobe Illustrator.**
+- 🌱 I have learnt **React.js, Adobe Photoshop, Adobe Illustrator,Mahine Leaning and Web Scrapping.**
 
 - 👯 I’m looking to collaborate on **Projects related to Machine Learning and  Front-end Development.**
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **Istutimaurya7@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny.**
+- ⚡ Beautiful fact **I think I am creative.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
